@@ -1,0 +1,18 @@
+{
+  "name": "@sst-trpc/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@serverless-stack/node": "^1.15.2",
+    "@trpc/server": "^10.0.0-proxy-beta.5",
+    "aws-sdk": "^2.1223.0",
+    "chance": "^1.1.8",
+    "electrodb": "^2.0.0",
+    "zod": "^3.19.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.105",
+    "@types/chance": "^1.1.3"
+  }
+}
